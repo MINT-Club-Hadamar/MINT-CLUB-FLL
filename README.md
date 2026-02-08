@@ -74,7 +74,7 @@ Füge den Key dann in den Einstellungen deines Accounts unter `SSH and GPG keys`
 Nun kann man das Projekt einfach aus der Cloud herunterladen:
 
 ```shell
-git clone git@github.com:account-name/MINT-CLUB-FLL.git
+git clone git@github.com:MINT-Club-Hadamar/MINT-CLUB-FLL.git
 ```
 
 ### Python Installation (Windows)
